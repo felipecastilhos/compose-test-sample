@@ -7,6 +7,7 @@ This project helped me understand how to add screenshot testing on Android using
 After this I'd applied this concept on two commercial apps to garantee quality on Design System components.
 
 ---
+I think this project got outdated. So it's probably an abandonware.
 
 ### How to setup this project
 `!! This project only runs in the lastest Android Studio Canary`
